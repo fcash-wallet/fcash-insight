@@ -7,7 +7,7 @@
 You need to be running [the latest node LTS](https://nodejs.org/en/download/) or newer.
 
 ```bash
-git clone https://github.com/bitpay/insight-ui.git
+git clone https://github.com/fcash-wallet/insight-ui.git
 cd insight-ui/app
 npm install
 npm start

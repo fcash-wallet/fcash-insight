@@ -2,11 +2,11 @@
   "name": "insight-ui",
   "description": "A bitcoin block explorer and API.",
   "version": "1.0.0",
-  "repository": "git://github.com/bitpay/insight.git",
+  "repository": "git://github.com/fcash-wallet/insight.git",
   "bugs": {
-    "url": "https://github.com/bitpay/insight/issues"
+    "url": "https://github.com/fcash-wallet/insight/issues"
   },
-  "homepage": "https://github.com/bitpay/insight",
+  "homepage": "https://github.com/fcash-wallet/insight",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -14,10 +14,10 @@
     "blockchain",
     "block explorer",
     "bitcoin",
-    "bitcore",
+    "fcash",
     "API"
   ],
-  "bitcoreNode": "bitcore-node",
+  "fcashNode": "fcash-node",
   "scripts": {
     "postinstall": "run-s install-app",
     "install-app": "cd app && npm install",
