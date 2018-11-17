@@ -1,12 +1,12 @@
 {
-  "name": "insight-ui",
+  "name": "fcash-insight",
   "description": "A bitcoin block explorer and API.",
-  "version": "1.0.0",
-  "repository": "git://github.com/fcash-wallet/insight.git",
+  "version": "8.0.2",
+  "repository": "git://github.com/fcash-wallet/fcash-insight.git",
   "bugs": {
-    "url": "https://github.com/fcash-wallet/insight/issues"
+    "url": "https://github.com/fcash-wallet/fcash-insight/issues"
   },
-  "homepage": "https://github.com/fcash-wallet/insight",
+  "homepage": "https://github.com/fcash-wallet/fcash-insight",
   "license": "MIT",
   "keywords": [
     "insight",
