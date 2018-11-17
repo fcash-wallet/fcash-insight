@@ -8,7 +8,7 @@
   "proxies": [
     {
       "path": "/api",
-      "proxyUrl": "https://bch-insight.bitpay.com/api"
+      "proxyUrl": "https://bch-insight.fcash.cash/api"
     }
   ]
 }
