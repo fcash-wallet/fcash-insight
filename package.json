@@ -1,7 +1,7 @@
 {
   "name": "fcash-insight",
   "description": "A bitcoin block explorer and API.",
-  "version": "8.0.3",
+  "version": "8.0.4",
   "repository": "git://github.com/fcash-wallet/fcash-insight.git",
   "bugs": {
     "url": "https://github.com/fcash-wallet/fcash-insight/issues"
